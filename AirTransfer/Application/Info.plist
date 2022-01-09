@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>This lets you take photos right from within AirTransfer</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This App want to access photo library</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string></string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_ioscreator-chat._tcp</string>
+	</array>
+</dict>
+</plist>
